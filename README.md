@@ -1,6 +1,6 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
-<a href="https://www.linkedin.com/in/guy-steinberger-371714246"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://www.linkedin.com/in/guy-steinberger"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=guyst16&style=flat-square&color=blue" alt=""></p>
 
@@ -15,7 +15,7 @@ I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 - 🔭 I’m working as a DevOps Engineer and contributing to applications for building different tools.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I learn new technologies and create my own repositories to discover new interests.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-gust16-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guy-steinberger-371714246)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-gust16-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guy-steinberger)
 
 ---
 
